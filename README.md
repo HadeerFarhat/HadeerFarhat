@@ -1,25 +1,28 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!--                    HADEER FARHAT • README                     -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=220&section=header&text=Hadeer%20Farhat&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Science%20%7C%20Full-Stack%20Development&descAlignY=60&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=230&section=header&text=Hadeer%20Farhat&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Science%20%7C%20Full-Stack%20Development&descAlignY=61&descSize=21&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<a href="mailto:h3deerfarhat@gmail.com">
-  <img src="https://img.shields.io/badge/Email-h3deerfarhat%40gmail.com-0F172A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&pause=1000&color=2563EB&center=true&vCenter=true&width=850&height=55&lines=Building+ideas+into+real+web+experiences.;Computer+Science+%7C+Full-Stack+Development;Frontend+%7C+Backend+%7C+Databases;Think+deeply.+Build+intentionally.+Keep+growing." alt="Typing SVG"/>
+
+<br/><br/>
+
+<a href="https://github.com/HadeerFarhat">
+<img src="https://img.shields.io/badge/GitHub-HadeerFarhat-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
+
 <a href="https://www.linkedin.com/in/hadeer-farhat/">
-  <img src="https://img.shields.io/badge/LinkedIn-Hadeer%20Farhat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Hadeer%20Farhat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:h3deerfarhat@gmail.com">
+<img src="https://img.shields.io/badge/Email-h3deerfarhat%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=850&height=55&lines=Building+ideas+into+real+web+experiences.;Computer+Science+%7C+Full-Stack+Development;Frontend+%7C+Backend+%7C+Databases;Code+with+purpose.+Design+with+intention." alt="Typing SVG"/>
+<img src="https://komarev.com/ghpvc/?username=HadeerFarhat&style=for-the-badge&color=1D4ED8&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
@@ -29,7 +32,7 @@
 
 <table>
 <tr>
-<td width="60%">
+<td width="62%">
 
 ```javascript
 const hadeer = {
@@ -62,7 +65,7 @@ const hadeer = {
 
   philosophy:
     "Good software is not only about making things work — " +
-    "it is about making them meaningful, maintainable, and useful.",
+    "it should also be meaningful, maintainable, and useful.",
 
   goal:
     "Turn complex ideas into simple, elegant digital experiences.",
@@ -74,13 +77,33 @@ const hadeer = {
 
 </td>
 
-<td width="40%" align="center">
+<td width="38%" align="center">
 
-<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="300" alt="Coding Animation"/>
+### ⚡ Build • Learn • Improve
 
 <br/>
 
-### ⚡ Build • Learn • Improve
+```text
+      ┌───────────────┐
+      │     IDEA      │
+      └───────┬───────┘
+              ↓
+      ┌───────────────┐
+      │    THINK      │
+      └───────┬───────┘
+              ↓
+      ┌───────────────┐
+      │    DESIGN     │
+      └───────┬───────┘
+              ↓
+      ┌───────────────┐
+      │     BUILD     │
+      └───────┬───────┘
+              ↓
+      ┌───────────────┐
+      │    IMPROVE    │
+      └───────────────┘
+```
 
 </td>
 </tr>
@@ -92,7 +115,7 @@ const hadeer = {
 
 > **I don't just want to write code.
 > I want to understand the problem, design the solution,
-> and build something that people can actually use.**
+> and build something people can actually use.**
 
 ```text
 Problem
@@ -112,8 +135,8 @@ Improve
 ✨ Better Solution
 ```
 
-I enjoy working across the stack because understanding how the pieces
-connect makes it easier to create complete and thoughtful solutions.
+I enjoy looking at development from more than one layer — from the interface
+the user sees to the logic and data working behind it.
 
 ---
 
@@ -125,7 +148,7 @@ connect makes it easier to create complete and thoughtful solutions.
 <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" alt="Frontend Technologies"/>
 </p>
 
-**HTML • CSS • JavaScript • React • Bootstrap • Tailwind CSS**
+`HTML` • `CSS` • `JavaScript` • `React` • `Bootstrap` • `Tailwind CSS`
 
 ---
 
@@ -135,7 +158,7 @@ connect makes it easier to create complete and thoughtful solutions.
 <img src="https://skillicons.dev/icons?i=nodejs,express,php,python" alt="Backend Technologies"/>
 </p>
 
-**Node.js • Express.js • PHP • Python**
+`Node.js` • `Express.js` • `PHP` • `Python`
 
 ---
 
@@ -145,17 +168,17 @@ connect makes it easier to create complete and thoughtful solutions.
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,firebase" alt="Database Technologies"/>
 </p>
 
-**MySQL • MongoDB • PostgreSQL • Firebase**
+`MySQL` • `MongoDB` • `PostgreSQL` • `Firebase`
 
 ---
 
-### 💻 Programming
+### 💻 Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" alt="Programming Languages"/>
 </p>
 
-**C • C++ • Java • Python • JavaScript**
+`C` • `C++` • `Java` • `Python` • `JavaScript`
 
 ---
 
@@ -165,75 +188,67 @@ connect makes it easier to create complete and thoughtful solutions.
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" alt="Development Tools"/>
 </p>
 
-**Git • GitHub • VS Code • Postman • Figma**
+`Git` • `GitHub` • `VS Code` • `Postman` • `Figma`
 
 ---
 
-### ☁️ Deployment & Modern Workflow
+### ☁️ Deployment & Workflow
 
 <p>
-<img src="https://skillicons.dev/icons?i=vercel,netlify,githubactions" alt="Deployment Tools"/>
+<img src="https://skillicons.dev/icons?i=vercel,netlify,githubactions" alt="Deployment and Workflow"/>
 </p>
 
-**Vercel • Netlify • GitHub Actions**
+`Vercel` • `Netlify` • `GitHub Actions`
 
 ---
 
 # 🧩 Full-Stack Perspective
 
 ```text
-                 ┌─────────────────────┐
-                 │       USER          │
-                 └──────────┬──────────┘
-                            │
-                            ▼
-                 ┌─────────────────────┐
-                 │      FRONTEND       │
-                 │  UI • UX • React    │
-                 └──────────┬──────────┘
-                            │
-                            ▼
-                 ┌─────────────────────┐
-                 │       API           │
-                 │ Node • Express      │
-                 └──────────┬──────────┘
-                            │
-                            ▼
-                 ┌─────────────────────┐
-                 │      BACKEND        │
-                 │ Logic • Security    │
-                 └──────────┬──────────┘
-                            │
-                            ▼
-                 ┌─────────────────────┐
-                 │     DATABASE        │
-                 │ SQL • NoSQL         │
-                 └─────────────────────┘
+                         ┌──────────────────────┐
+                         │        USER          │
+                         └──────────┬───────────┘
+                                    │
+                                    ▼
+                         ┌──────────────────────┐
+                         │       FRONTEND       │
+                         │  UI • UX • React     │
+                         └──────────┬───────────┘
+                                    │
+                                    ▼
+                         ┌──────────────────────┐
+                         │         API          │
+                         │ Node • Express       │
+                         └──────────┬───────────┘
+                                    │
+                                    ▼
+                         ┌──────────────────────┐
+                         │       BACKEND        │
+                         │ Logic • Integration  │
+                         └──────────┬───────────┘
+                                    │
+                                    ▼
+                         ┌──────────────────────┐
+                         │      DATABASE        │
+                         │ SQL • NoSQL          │
+                         └──────────────────────┘
 ```
 
-**One idea → multiple layers → one complete experience.**
+### One idea → multiple layers → one complete experience.
 
 ---
 
 # 📊 GitHub Statistics
 
-> Your GitHub activity should tell a story — not just show numbers.
-
 <div align="center">
 
-<!-- Add your GitHub username to these cards once your profile URL is available -->
+<img src="https://github-readme-stats.vercel.app/api?username=HadeerFarhat&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=false&theme=transparent" height="180" alt="Hadeer Farhat GitHub Statistics"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=false&theme=transparent" height="170" alt="GitHub Statistics"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HadeerFarhat&layout=compact&hide_border=true&langs_count=8&theme=transparent" height="180" alt="Hadeer Farhat Top Languages"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&langs_count=8&theme=transparent" height="170" alt="Top Languages"/>
+<br/><br/>
 
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&theme=transparent" alt="GitHub Contribution Streak"/>
+<img src="https://streak-stats.demolab.com/?user=HadeerFarhat&hide_border=true&theme=transparent" alt="Hadeer Farhat GitHub Contribution Streak"/>
 
 </div>
 
@@ -252,8 +267,8 @@ connect makes it easier to create complete and thoughtful solutions.
 * Backend & API Development
 * Database Design
 * Writing cleaner code
-* Building practical projects
-* Improving problem-solving skills
+* Building practical applications
+* Strengthening problem-solving skills
 
 </td>
 
@@ -261,8 +276,8 @@ connect makes it easier to create complete and thoughtful solutions.
 
 ### 🌱 Growing Through
 
-* Real-world projects
-* Continuous experimentation
+* Building real projects
+* Experimentation
 * Debugging & problem solving
 * Learning new technologies
 * Understanding systems deeply
@@ -274,16 +289,16 @@ connect makes it easier to create complete and thoughtful solutions.
 
 ---
 
-# 💡 My Development Principles
+# 💡 Development Principles
 
 | Principle         | What it means                                             |
-| ----------------- | --------------------------------------------------------- |
-| 🧠 **Understand** | Don't code blindly — understand the problem first.        |
+| :---------------- | :-------------------------------------------------------- |
+| 🧠 **Understand** | Understand the problem before writing the solution.       |
 | 🎯 **Purpose**    | Every feature should have a reason to exist.              |
-| 🧩 **Structure**  | Good organization makes good software easier to maintain. |
+| 🧩 **Structure**  | Good organization makes software easier to maintain.      |
 | 🎨 **Design**     | Functionality and visual experience should work together. |
-| 🔍 **Precision**  | Small details can make a big difference.                  |
-| 🚀 **Growth**     | Every project is an opportunity to become better.         |
+| 🔍 **Precision**  | Small details can create a big difference.                |
+| 🚀 **Growth**     | Every project is an opportunity to improve.               |
 
 ---
 
@@ -298,11 +313,23 @@ connect makes it easier to create complete and thoughtful solutions.
 | Responsive Design |  Server Logic  |      NoSQL      |
 |  User Experience  |   Integration  | Data Management |
 
+<br/>
+
 | 🧠 Problem Solving | 🏗️ Architecture | ✨ Product Thinking |
 | :----------------: | :--------------: | :----------------: |
 |     Algorithms     |     Structure    |     User Needs     |
-|      Debugging     |    Scalability   |     Simplicity     |
-|  Logical Thinking  |  Maintainability |   Useful Features  |
+|      Debugging     |  Maintainability |     Simplicity     |
+|  Logical Thinking  |    Scalability   |   Useful Features  |
+
+</div>
+
+---
+
+# 📈 My GitHub Journey
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HadeerFarhat&hide_border=true&area=true&theme=github-compact" width="95%" alt="Hadeer Farhat Contribution Graph"/>
 
 </div>
 
@@ -310,16 +337,19 @@ connect makes it easier to create complete and thoughtful solutions.
 
 # 📌 Featured Work
 
-> This section is intentionally kept clean until real GitHub repositories are connected.
-> No fake projects. No invented statistics. No placeholder project cards.
+I prefer to showcase **real work rather than empty cards or invented projects**.
 
-<div align="center">
+As the GitHub portfolio grows, this section can highlight:
 
-### 🧱 Building the portfolio one meaningful project at a time.
-
-**Projects • Experiments • Learning • Growth**
-
-</div>
+```text
+┌─────────────────────────────────────────────┐
+│  🚀 Full-Stack Applications                 │
+│  🎨 Frontend Experiences                    │
+│  ⚙️ Backend & API Projects                  │
+│  🗄️ Database-driven Applications            │
+│  🧠 Problem-solving & Programming Projects  │
+└─────────────────────────────────────────────┘
+```
 
 ---
 
@@ -327,13 +357,13 @@ connect makes it easier to create complete and thoughtful solutions.
 
 <div align="center">
 
-### **"Don't just make it work.**
+### **Don't just make it work.**
 
 ### **Make it understandable.**
 
 ### **Make it useful.**
 
-### **Make it yours."**
+### **Make it yours.**
 
 </div>
 
@@ -343,19 +373,27 @@ connect makes it easier to create complete and thoughtful solutions.
 
 <div align="center">
 
-I'm always interested in connecting with people who enjoy:
+### Building something interesting?
 
-**Technology • Software • Learning • Building • Ideas**
+**Let's connect, exchange ideas, learn, and build.**
 
 <br/>
 
-<a href="mailto:h3deerfarhat@gmail.com">
-<img src="https://img.shields.io/badge/Let's%20Talk-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Hadeer"/>
+<a href="https://github.com/HadeerFarhat">
+<img src="https://img.shields.io/badge/GitHub-HadeerFarhat-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="https://www.linkedin.com/in/hadeer-farhat/">
-<img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Hadeer"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+
+<a href="mailto:h3deerfarhat@gmail.com">
+<img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
+
+**Technology • Software • Learning • Building • Ideas**
 
 </div>
 
@@ -363,7 +401,7 @@ I'm always interested in connecting with people who enjoy:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:0F172A&height=130&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:0F172A&height=140&section=footer" width="100%"/>
 
 ### ⚡ Think. Build. Break. Learn. Rebuild. Better.
 
@@ -371,7 +409,6 @@ I'm always interested in connecting with people who enjoy:
 
 <br/>
 
-<a href="mailto:h3deerfarhat@gmail.com">📧 Email</a>
-  •   <a href="https://www.linkedin.com/in/hadeer-farhat/">💼 LinkedIn</a>
+<sub>Designed with intention • Built with curiosity • Improved through practice</sub>
 
 </div>
