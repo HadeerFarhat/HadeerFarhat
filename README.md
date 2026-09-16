@@ -1,38 +1,34 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=230&section=header&text=Hadeer%20Farhat&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Science%20%7C%20Full-Stack%20Development&descAlignY=61&descSize=21&animation=fadeIn" width="100%"/>
+# Hadeer Farhat
+
+### `Computer Science` • `Full-Stack Development`
+
+**Building ideas into meaningful digital experiences.**
 
 <br/>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&pause=1000&color=2563EB&center=true&vCenter=true&width=850&height=55&lines=Building+ideas+into+real+web+experiences.;Computer+Science+%7C+Full-Stack+Development;Frontend+%7C+Backend+%7C+Databases;Think+deeply.+Build+intentionally.+Keep+growing." alt="Typing SVG"/>
-
-<br/><br/>
 
 <a href="https://github.com/HadeerFarhat">
 <img src="https://img.shields.io/badge/GitHub-HadeerFarhat-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-
 <a href="https://www.linkedin.com/in/hadeer-farhat/">
 <img src="https://img.shields.io/badge/LinkedIn-Hadeer%20Farhat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
 <a href="mailto:h3deerfarhat@gmail.com">
 <img src="https://img.shields.io/badge/Email-h3deerfarhat%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=HadeerFarhat&style=for-the-badge&color=1D4ED8&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Mindset-Problem%20Solving-06B6D4?style=flat-square"/>
+<img src="https://img.shields.io/badge/Approach-Build%20%26%20Improve-0F172A?style=flat-square"/>
 
 </div>
 
 ---
 
-# 👋 About Me
-
-<table>
-<tr>
-<td width="62%">
+## 🧠 About Me
 
 ```javascript
 const hadeer = {
@@ -41,247 +37,205 @@ const hadeer = {
   field: "Computer Science",
   specialization: "Full-Stack Development",
 
-  focus: [
-    "Modern Web Development",
-    "Frontend Engineering",
+  interests: [
+    "Web Development",
+    "Frontend Development",
     "Backend Development",
-    "Database Design",
+    "Database Development",
     "Problem Solving"
   ],
 
   mindset: [
-    "Think deeply",
-    "Build intentionally",
-    "Learn continuously",
-    "Improve relentlessly"
+    "Understand the problem",
+    "Design the solution",
+    "Build with purpose",
+    "Improve continuously"
   ],
 
-  interestedIn: [
-    "Clean Architecture",
-    "Interactive Interfaces",
-    "Scalable Applications",
-    "Practical Software Solutions"
-  ],
+  focus: "Building modern and practical web applications",
 
   philosophy:
-    "Good software is not only about making things work — " +
-    "it should also be meaningful, maintainable, and useful.",
+    "Good software should be useful, understandable, " +
+    "maintainable, and thoughtfully designed.",
 
   goal:
-    "Turn complex ideas into simple, elegant digital experiences.",
-
-  funFact:
-    "Every bug is a lesson wearing a disguise."
+    "Turn ideas into clean, functional, and meaningful applications."
 };
 ```
 
-</td>
+---
 
-<td width="38%" align="center">
+## ⚡ How I Think
 
-### ⚡ Build • Learn • Improve
+I believe development is more than writing code.
 
-<br/>
+It is about **understanding the problem**, breaking complexity into smaller pieces,
+designing a clear solution, and continuously improving the result.
 
 ```text
-      ┌───────────────┐
-      │     IDEA      │
-      └───────┬───────┘
-              ↓
-      ┌───────────────┐
-      │    THINK      │
-      └───────┬───────┘
-              ↓
-      ┌───────────────┐
-      │    DESIGN     │
-      └───────┬───────┘
-              ↓
-      ┌───────────────┐
-      │     BUILD     │
-      └───────┬───────┘
-              ↓
-      ┌───────────────┐
-      │    IMPROVE    │
-      └───────────────┘
+                ┌───────────────┐
+                │     IDEA      │
+                └───────┬───────┘
+                        │
+                        ▼
+                ┌───────────────┐
+                │  UNDERSTAND   │
+                └───────┬───────┘
+                        │
+                        ▼
+                ┌───────────────┐
+                │     THINK     │
+                └───────┬───────┘
+                        │
+                        ▼
+                ┌───────────────┐
+                │    DESIGN     │
+                └───────┬───────┘
+                        │
+                        ▼
+                ┌───────────────┐
+                │     BUILD     │
+                └───────┬───────┘
+                        │
+                        ▼
+                ┌───────────────┐
+                │     TEST      │
+                └───────┬───────┘
+                        │
+                        ▼
+                ┌───────────────┐
+                │    IMPROVE    │
+                └───────────────┘
 ```
 
-</td>
-</tr>
-</table>
+> **Think deeply. Build intentionally. Improve relentlessly.**
 
 ---
 
-# 🧠 How I Think About Development
+# 🛠️ Tech Stack
 
-> **I don't just want to write code.
-> I want to understand the problem, design the solution,
-> and build something people can actually use.**
-
-```text
-Problem
-   ↓
-Understand
-   ↓
-Think
-   ↓
-Design
-   ↓
-Build
-   ↓
-Test
-   ↓
-Improve
-   ↓
-✨ Better Solution
-```
-
-I enjoy looking at development from more than one layer — from the interface
-the user sees to the logic and data working behind it.
-
----
-
-# 🛠️ Technologies & Tools
-
-### 🎨 Frontend
+## 🎨 Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" alt="Frontend Technologies"/>
 </p>
 
-`HTML` • `CSS` • `JavaScript` • `React` • `Bootstrap` • `Tailwind CSS`
+| Technology   | Purpose               |
+| ------------ | --------------------- |
+| HTML         | Structure             |
+| CSS          | Styling & Layout      |
+| JavaScript   | Interactivity & Logic |
+| React        | Component-based UI    |
+| Bootstrap    | UI Development        |
+| Tailwind CSS | Utility-first Styling |
 
 ---
 
-### ⚙️ Backend
+## ⚙️ Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,php,python" alt="Backend Technologies"/>
 </p>
 
-`Node.js` • `Express.js` • `PHP` • `Python`
+| Technology | Focus                             |
+| ---------- | --------------------------------- |
+| Node.js    | Server-side JavaScript            |
+| Express.js | APIs & Backend Applications       |
+| PHP        | Server-side Development           |
+| Python     | Programming & Backend Development |
 
 ---
 
-### 🗄️ Databases
+## 🗄️ Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,firebase" alt="Database Technologies"/>
 </p>
 
-`MySQL` • `MongoDB` • `PostgreSQL` • `Firebase`
+**MySQL • MongoDB • PostgreSQL • Firebase**
 
 ---
 
-### 💻 Programming Languages
+## 💻 Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" alt="Programming Languages"/>
 </p>
 
-`C` • `C++` • `Java` • `Python` • `JavaScript`
+**C • C++ • Java • Python • JavaScript**
 
 ---
 
-### 🔧 Development Tools
+## 🔧 Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" alt="Development Tools"/>
 </p>
 
-`Git` • `GitHub` • `VS Code` • `Postman` • `Figma`
-
----
-
-### ☁️ Deployment & Workflow
-
-<p>
-<img src="https://skillicons.dev/icons?i=vercel,netlify,githubactions" alt="Deployment and Workflow"/>
-</p>
-
-`Vercel` • `Netlify` • `GitHub Actions`
+**Git • GitHub • VS Code • Postman • Figma**
 
 ---
 
 # 🧩 Full-Stack Perspective
 
 ```text
-                         ┌──────────────────────┐
-                         │        USER          │
-                         └──────────┬───────────┘
-                                    │
-                                    ▼
-                         ┌──────────────────────┐
-                         │       FRONTEND       │
-                         │  UI • UX • React     │
-                         └──────────┬───────────┘
-                                    │
-                                    ▼
-                         ┌──────────────────────┐
-                         │         API          │
-                         │ Node • Express       │
-                         └──────────┬───────────┘
-                                    │
-                                    ▼
-                         ┌──────────────────────┐
-                         │       BACKEND        │
-                         │ Logic • Integration  │
-                         └──────────┬───────────┘
-                                    │
-                                    ▼
-                         ┌──────────────────────┐
-                         │      DATABASE        │
-                         │ SQL • NoSQL          │
-                         └──────────────────────┘
+                       USER
+                        │
+                        ▼
+              ┌─────────────────┐
+              │    FRONTEND     │
+              │   UI • UX • UI  │
+              └────────┬────────┘
+                       │
+                       ▼
+              ┌─────────────────┐
+              │       API       │
+              │  Requests/Data  │
+              └────────┬────────┘
+                       │
+                       ▼
+              ┌─────────────────┐
+              │     BACKEND     │
+              │ Logic • Rules   │
+              └────────┬────────┘
+                       │
+                       ▼
+              ┌─────────────────┐
+              │    DATABASE     │
+              │  SQL • NoSQL    │
+              └─────────────────┘
 ```
 
-### One idea → multiple layers → one complete experience.
+### One idea → multiple layers → one complete application.
 
 ---
 
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=HadeerFarhat&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=false&theme=transparent" height="180" alt="Hadeer Farhat GitHub Statistics"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HadeerFarhat&layout=compact&hide_border=true&langs_count=8&theme=transparent" height="180" alt="Hadeer Farhat Top Languages"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=HadeerFarhat&hide_border=true&theme=transparent" alt="Hadeer Farhat GitHub Contribution Streak"/>
-
-</div>
-
----
-
-# 🚀 What I'm Building Toward
+# 🎯 Current Focus
 
 <table>
 <tr>
 <td width="50%">
 
-### 🔥 Current Focus
+### 🔥 Building
 
-* Full-Stack Web Development
-* Modern Frontend Architecture
-* Backend & API Development
-* Database Design
-* Writing cleaner code
-* Building practical applications
-* Strengthening problem-solving skills
+* Full-Stack Web Applications
+* Modern Frontend Interfaces
+* Backend APIs
+* Database-driven Applications
+* Practical Software Solutions
 
 </td>
 
 <td width="50%">
 
-### 🌱 Growing Through
+### 🌱 Improving
 
-* Building real projects
-* Experimentation
-* Debugging & problem solving
-* Learning new technologies
-* Understanding systems deeply
-* Turning ideas into working products
+* Problem Solving
+* Clean Code
+* Application Architecture
+* Database Design
+* Debugging
+* Development Workflow
 
 </td>
 </tr>
@@ -289,81 +243,81 @@ the user sees to the logic and data working behind it.
 
 ---
 
-# 💡 Development Principles
-
-| Principle         | What it means                                             |
-| :---------------- | :-------------------------------------------------------- |
-| 🧠 **Understand** | Understand the problem before writing the solution.       |
-| 🎯 **Purpose**    | Every feature should have a reason to exist.              |
-| 🧩 **Structure**  | Good organization makes software easier to maintain.      |
-| 🎨 **Design**     | Functionality and visual experience should work together. |
-| 🔍 **Precision**  | Small details can create a big difference.                |
-| 🚀 **Growth**     | Every project is an opportunity to improve.               |
-
----
-
-# 🌟 Areas I Enjoy
+# 🧠 Development Principles
 
 <div align="center">
 
-|    🖥️ Frontend   |   ⚙️ Backend   |  🗄️ Databases  |
-| :---------------: | :------------: | :-------------: |
-|     Interfaces    |      APIs      |  Data Modeling  |
-|     Components    | Business Logic |       SQL       |
-| Responsive Design |  Server Logic  |      NoSQL      |
-|  User Experience  |   Integration  | Data Management |
+|       🧠 Understand      |     🎯 Purpose     |      🧩 Structure     |
+| :----------------------: | :----------------: | :-------------------: |
+| Understand before coding | Build what matters | Keep things organized |
 
-<br/>
-
-| 🧠 Problem Solving | 🏗️ Architecture | ✨ Product Thinking |
-| :----------------: | :--------------: | :----------------: |
-|     Algorithms     |     Structure    |     User Needs     |
-|      Debugging     |  Maintainability |     Simplicity     |
-|  Logical Thinking  |    Scalability   |   Useful Features  |
+|       🎨 Design       |  🔍 Precision  |    🚀 Growth   |
+| :-------------------: | :------------: | :------------: |
+| Function + experience | Details matter | Always improve |
 
 </div>
 
 ---
 
-# 📈 My GitHub Journey
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HadeerFarhat&hide_border=true&area=true&theme=github-compact" width="95%" alt="Hadeer Farhat Contribution Graph"/>
-
-</div>
-
----
-
-# 📌 Featured Work
-
-I prefer to showcase **real work rather than empty cards or invented projects**.
-
-As the GitHub portfolio grows, this section can highlight:
+# 💡 What I Enjoy
 
 ```text
-┌─────────────────────────────────────────────┐
-│  🚀 Full-Stack Applications                 │
-│  🎨 Frontend Experiences                    │
-│  ⚙️ Backend & API Projects                  │
-│  🗄️ Database-driven Applications            │
-│  🧠 Problem-solving & Programming Projects  │
-└─────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│   🖥️  Building Interfaces                           │
+│                                                     │
+│   ⚙️  Developing Backend Logic                     │
+│                                                     │
+│   🗄️  Working With Data & Databases                │
+│                                                     │
+│   🧠  Solving Programming Problems                 │
+│                                                     │
+│   🏗️  Thinking About Application Structure         │
+│                                                     │
+│   ✨  Turning Ideas Into Real Experiences           │
+│                                                     │
+└─────────────────────────────────────────────────────┘
 ```
 
 ---
 
-# 💬 A Thought I Code By
+# 📌 My GitHub
 
 <div align="center">
 
-### **Don't just make it work.**
+<a href="https://github.com/HadeerFarhat">
 
-### **Make it understandable.**
+<img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub Repositories"/>
 
-### **Make it useful.**
+</a>
 
-### **Make it yours.**
+<br/><br/>
+
+**Real projects. Real experiments. Continuous improvement.**
+
+</div>
+
+---
+
+# 🌟 A Few Words About My Approach
+
+<div align="center">
+
+### I don't chase complexity.
+
+### I chase understanding.
+
+<br/>
+
+### I don't just write code.
+
+### I build solutions.
+
+<br/>
+
+### I don't aim to stop learning.
+
+### I aim to keep getting better.
 
 </div>
 
@@ -373,27 +327,25 @@ As the GitHub portfolio grows, this section can highlight:
 
 <div align="center">
 
-### Building something interesting?
-
-**Let's connect, exchange ideas, learn, and build.**
+### Have an idea, project, or interesting conversation?
 
 <br/>
 
 <a href="https://github.com/HadeerFarhat">
-<img src="https://img.shields.io/badge/GitHub-HadeerFarhat-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/>
 </a>
 
 <a href="https://www.linkedin.com/in/hadeer-farhat/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
 </a>
 
 <a href="mailto:h3deerfarhat@gmail.com">
-<img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact by Email"/>
 </a>
 
 <br/><br/>
 
-**Technology • Software • Learning • Building • Ideas**
+**Technology • Ideas • Learning • Building**
 
 </div>
 
@@ -401,13 +353,13 @@ As the GitHub portfolio grows, this section can highlight:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:0F172A&height=140&section=footer" width="100%"/>
-
-### ⚡ Think. Build. Break. Learn. Rebuild. Better.
-
-**Computer Science • Full-Stack Development • Continuous Growth**
+### ⚡ Think. Build. Learn. Improve.
 
 <br/>
+
+`Computer Science` • `Full-Stack Development` • `Problem Solving`
+
+<br/><br/>
 
 <sub>Designed with intention • Built with curiosity • Improved through practice</sub>
 
